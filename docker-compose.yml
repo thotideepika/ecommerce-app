@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: ecommerce-db
+    environment:
+      MYSQL_DATABASE: ecommerce
+      MYSQL_USER: shopuser
+      MYSQL_PASSWORD: shop123
+      MYSQL_ROOT_PASSWORD: root123
+    ports:
+      - "3306:3306"
+    volumes:
+      - ecommerce_data:/var/lib/mysql
+
+  backend:
+    build: ./backend
+    container_name: ecommerce-backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mysql
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/ecommerce
+      SPRING_DATASOURCE_USERNAME: shopuser
+      SPRING_DATASOURCE_PASSWORD: shop123
+
+volumes:
+  ecommerce_data:
