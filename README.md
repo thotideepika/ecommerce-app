@@ -1,6 +1,8 @@
 # 🛍️ ShopHub — Full-Stack E-Commerce Platform
-> 🔗 **GitHub Repository:** [github.com/thotideepika/ecommerce-app](https://github.com/thotideepika/ecommerce-app)  
-> 🌐 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app) *(Coming soon)*
+> 🔗 **GitHub Repository:** [thotideepika/ecommerce-app](https://github.com/thotideepika/ecommerce-app)  
+> 🌐 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)
+
+---
 
 A production-grade **e-commerce web application** with product catalog, shopping cart, order management, and admin panel — built using **Spring Boot 3**, **React + TypeScript**, **PostgreSQL**, and **JWT authentication**.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?logo=vercel)](https://ecommerce-app.vercel.app)
