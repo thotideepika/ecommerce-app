@@ -1,6 +1,10 @@
 # 🛍️ ShopHub — Full-Stack E-Commerce Platform
+> 🔗 **GitHub Repository:** [github.com/thotideepika/ecommerce-app](https://github.com/thotideepika/ecommerce-app)  
+> 🌐 **Live Demo:** [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app) *(Coming soon)*
 
 A production-grade **e-commerce web application** with product catalog, shopping cart, order management, and admin panel — built using **Spring Boot 3**, **React + TypeScript**, **PostgreSQL**, and **JWT authentication**.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?logo=vercel)](https://ecommerce-app.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/thotideepika/ecommerce-app)
 
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-green?logo=springboot)
@@ -537,12 +541,12 @@ Contributions are welcome!
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ## 👤 Author
 
 **Deepika**
 - GitHub: [@thotideepika](https://github.com/thotideepika)
-- Email: thotideepika2711@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Live Project: [ecommerce-app.vercel.app](https://ecommerce-app.vercel.app)
 
 ---
 
