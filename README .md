@@ -1,12 +1,9 @@
  🛍️ ShopHub — Full-Stack E-Commerce Platform
 
 A production-grade **e-commerce web application** built with **Spring Boot 3**, **React 18 + TypeScript**, **PostgreSQL**, and **JWT authentication**. Features a complete product catalog, shopping cart, order management, and a dedicated admin dashboard.
-
 > 🔗 **GitHub Repository:** [github.com/thotideepika/ecommerce-app](https://github.com/thotideepika/ecommerce-app)  
-> 🌐 **Live Demo:** [ecommerce-app-ochre-nine.vercel.app](https://ecommerce-app-ochre-nine.vercel.app)  
-> 💻 **Local URL:** [http://localhost:3001](http://localhost:3001) *(or whichever port Vite assigns)*
-
-[![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)](https://adoptium.net)
+> 🌐 **Live Demo:** [ecommerce-app-ochre-nine.vercel.app](https://ecommerce-app-ochre-nine.vercel.app)
+https://img.shields.io/badge/Java-21-orange?logo=openjdk(https://adoptium.net)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-green?logo=springboot)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?logo=typescript)](https://www.typescriptlang.org)
